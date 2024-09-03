@@ -55,5 +55,3 @@ dkms.conf
 trained_models
 dataset
 src
-test
-best_hyperparams
